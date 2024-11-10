@@ -1,0 +1,19 @@
+{
+    "name": "cmatosbc/oopress-throttling",
+    "description": "Throttling OOP system for agnostic use.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Carlos Matos",
+            "email": "carlosarturmatos1977@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Oopress\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
